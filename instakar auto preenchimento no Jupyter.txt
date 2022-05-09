@@ -1,0 +1,5 @@
+No prompt do Anaconda:
+pip install jupyter_contrib_nbextensions
+
+depois:
+jupyter contrib nbextension install --user
